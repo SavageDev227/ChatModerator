@@ -1,0 +1,22 @@
+#_________  .__              __     _____               .___                       __
+#\_   ___ \ |  |__  _____  _/  |_  /     \    ____    __| _/ ____ _______ _____  _/  |_  ____ _______
+#/    \  \/ |  |  \ \__  \ \   __\/  \ /  \  /  _ \  / __ |_/ __ \\_  __ \\__  \ \   __\/  _ \\_  __ \
+#\     \____|   Y  \ / __ \_|  | /    Y    \(  <_> )/ /_/ |\  ___/ |  | \/ / __ \_|  | (  <_> )|  | \/
+#\______  /|___|  /(____  /|__| \____|__  / \____/ \____ | \___  >|__|   (____  /|__|  \____/ |__|
+#\/      \/      \/              \/              \/     \/             \/
+
+#THIS IS THE CONFIGURATION OF THE CHATMODERATOR PLUGIN
+#PLEASE MAKE SURE ALL VALUES ARE CORRECT
+
+webhook-url: ""
+
+moderation-ping-role-id: ""
+
+banned-words:
+  - nigger
+  - cunt
+  - nigga
+  - faggot
+  - fag
+  - fagg
+

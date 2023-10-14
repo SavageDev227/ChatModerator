@@ -1,0 +1,4 @@
+name: ChatModerator
+version: '1.0'
+main: com.savage.chatmoderator.ChatModerator
+api-version: '1.20'
